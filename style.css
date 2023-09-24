@@ -635,6 +635,7 @@ footer a:hover .background-circle{
     }
     #links-container{
         flex-direction: column;
+        padding-bottom: 0;
         gap: 0px;
     }
     #links-container h3{
