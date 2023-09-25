@@ -706,6 +706,11 @@ footer a:hover .background-circle{
     section header .header-text{
         width: 100%;
     }
+    #offer .container,
+    #info .container{
+        max-width: none;
+        padding: 0 24px;
+    }
     #links{
         padding: 30px 16px;
     }
